@@ -1,0 +1,11 @@
+
+<nav>
+
+    <img src="{{ "images/navbar/zoho-logo-web.svg" | relURL}}" alt="" width="100">
+    <div>
+        {{range .Site.Menus.main}}
+            <a href="{{.URL}}" class="links">{{.Name}}</a>
+        {{end}}
+    </div>
+    <button>Access Demo</button>
+</nav>

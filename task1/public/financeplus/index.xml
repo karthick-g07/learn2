@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoho Finance Plus on My New Hugo Site</title>
+    <link>http://localhost:58075/financeplus/</link>
+    <description>Recent content in Zoho Finance Plus on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:58075/financeplus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoho Books</title>
+      <link>http://localhost:58075/financeplus/zohobooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/financeplus/zohobooks/</guid>
+      <description>&lt;p&gt;Simplify your accounting and stay on top of your business finances with Zoho Books.&lt;br&gt;&#xA;With Zoho Books, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create and send professional invoices in minutes&lt;/li&gt;&#xA;&lt;li&gt;Track income, expenses, and taxes automatically&lt;/li&gt;&#xA;&lt;li&gt;Manage bank transactions with real-time bank feeds&lt;/li&gt;&#xA;&lt;li&gt;Automate payment reminders and recurring invoices&lt;/li&gt;&#xA;&lt;li&gt;Generate GST-compliant reports and file returns easily&lt;/li&gt;&#xA;&lt;li&gt;Collaborate with accountants and team members securely&lt;/li&gt;&#xA;&lt;li&gt;Integrate with Zoho apps and third-party platforms for smooth workflows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether you’re a freelancer, small business, or growing enterprise, Zoho Books helps you maintain accurate financial records, save time, and make informed business decisions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zoho Expense</title>
+      <link>http://localhost:58075/financeplus/zohoexpense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/financeplus/zohoexpense/</guid>
+      <description>&lt;p&gt;Streamline expense reporting and gain complete control over your business spending with Zoho Expense.&lt;br&gt;&#xA;With Zoho Expense, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Capture receipts instantly using mobile or web upload&lt;/li&gt;&#xA;&lt;li&gt;Automatically extract expense details with OCR technology&lt;/li&gt;&#xA;&lt;li&gt;Set spending limits and enforce company expense policies&lt;/li&gt;&#xA;&lt;li&gt;Track mileage with GPS-based distance calculation&lt;/li&gt;&#xA;&lt;li&gt;Automate multi-level expense approvals&lt;/li&gt;&#xA;&lt;li&gt;Generate detailed expense reports for better cost control&lt;/li&gt;&#xA;&lt;li&gt;Integrate seamlessly with accounting, HR, and travel management tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;From small purchases to large travel budgets, Zoho Expense helps you save time, prevent overspending, and ensure compliance with your financial policies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zoho Inventory</title>
+      <link>http://localhost:58075/financeplus/zohoinventory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/financeplus/zohoinventory/</guid>
+      <description>&lt;p&gt;Efficiently manage your stock, orders, and warehouses with Zoho Inventory.&lt;br&gt;&#xA;With Zoho Inventory, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Track stock levels in real time across multiple warehouses&lt;/li&gt;&#xA;&lt;li&gt;Manage sales and purchase orders with ease&lt;/li&gt;&#xA;&lt;li&gt;Automate reordering to prevent stockouts or overstocking&lt;/li&gt;&#xA;&lt;li&gt;Integrate with popular e-commerce platforms like Amazon, eBay, and Shopify&lt;/li&gt;&#xA;&lt;li&gt;Sync inventory data with accounting and CRM tools&lt;/li&gt;&#xA;&lt;li&gt;Generate barcode labels for quick product identification&lt;/li&gt;&#xA;&lt;li&gt;Access powerful reports to analyze sales trends and product performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether you’re running a retail store, online shop, or wholesale business, Zoho Inventory ensures you have the right products in the right place at the right time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoho Workplace on My New Hugo Site</title>
+    <link>http://localhost:58075/workplace/</link>
+    <description>Recent content in Zoho Workplace on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:58075/workplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoho Mail</title>
+      <link>http://localhost:58075/workplace/zohomail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/workplace/zohomail/</guid>
+      <description>&lt;p&gt;Experience secure, ad-free, and professional email hosting with Zoho Mail.&lt;br&gt;&#xA;With Zoho Mail, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Host your business email on a custom domain&lt;/li&gt;&#xA;&lt;li&gt;Enjoy an ad-free, clean, and fast interface&lt;/li&gt;&#xA;&lt;li&gt;Access emails seamlessly across web, mobile, and desktop apps&lt;/li&gt;&#xA;&lt;li&gt;Use advanced search to find messages instantly&lt;/li&gt;&#xA;&lt;li&gt;Collaborate with your team using shared mailboxes, tasks, and notes&lt;/li&gt;&#xA;&lt;li&gt;Protect your data with enterprise-grade security and encryption&lt;/li&gt;&#xA;&lt;li&gt;Integrate with Zoho apps and popular third-party tools for streamlined workflows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Zoho Mail ensures reliable communication for your business while maintaining top-notch privacy and security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zoho Show</title>
+      <link>http://localhost:58075/workplace/zohoshow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/workplace/zohoshow/</guid>
+      <description>&lt;p&gt;Create, collaborate, and present stunning presentations with Zoho Show.&lt;br&gt;&#xA;With Zoho Show, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Design professional slides with customizable templates and themes&lt;/li&gt;&#xA;&lt;li&gt;Collaborate with your team in real-time from anywhere&lt;/li&gt;&#xA;&lt;li&gt;Import and edit PowerPoint files without formatting issues&lt;/li&gt;&#xA;&lt;li&gt;Embed charts, tables, and multimedia for engaging storytelling&lt;/li&gt;&#xA;&lt;li&gt;Broadcast presentations online to remote audiences&lt;/li&gt;&#xA;&lt;li&gt;Control your slides from your mobile device during live sessions&lt;/li&gt;&#xA;&lt;li&gt;Integrate with Zoho apps and external platforms like YouTube and Unsplash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether you’re pitching to clients, training employees, or presenting ideas, Zoho Show makes it easy to deliver impactful presentations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zoho Cliq</title>
+      <link>http://localhost:58075/workplace/zohocliq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58075/workplace/zohocliq/</guid>
+      <description>&lt;p&gt;Streamline your team communication and collaboration with Zoho Cliq.&lt;br&gt;&#xA;With Zoho Cliq, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chat with individuals or groups in real-time&lt;/li&gt;&#xA;&lt;li&gt;Organize conversations with channels for teams, projects, or topics&lt;/li&gt;&#xA;&lt;li&gt;Make audio and video calls directly from the app&lt;/li&gt;&#xA;&lt;li&gt;Share files, images, and documents instantly&lt;/li&gt;&#xA;&lt;li&gt;Integrate with Zoho apps and third-party tools for seamless workflows&lt;/li&gt;&#xA;&lt;li&gt;Automate repetitive tasks using bots and custom commands&lt;/li&gt;&#xA;&lt;li&gt;Access chats and data from desktop or mobile anytime&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether your team works in the office or remotely, Zoho Cliq keeps everyone connected, informed, and productive.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

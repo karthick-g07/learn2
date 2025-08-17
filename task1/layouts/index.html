@@ -1,0 +1,37 @@
+{{define "main"}}
+
+
+<!-- herosection -->
+<section id="hero" style=" background-image: linear-gradient(rgba(231, 227, 227, 0.651),rgba(246, 246, 250, 0.333)), url('images/navbar/background.png');" >
+    <h1>Welcome to zoho</h1>
+    <h2>All-in-one tool to manage, automate, and grow without the chaos.</h2>
+    <div>Get Started</div>
+</section>
+
+
+<!-- zoho one advertisement -->
+<section id="wrapper-content" >
+    <div id="zoho-one-container" style="background-image: url('images/navbar/one.svg');">
+    </div>
+    <div id="zoho-one-boxcontent">
+        <h1>The Operating System for 
+            <span>Your Busines</span>
+        </h1>
+        <p>50+ integrated apps to run sales, marketing, finance, HR, and more — all in one platform.</p>
+    </div>
+</section>
+
+
+<!-- all cards -->
+<div id="allsuite-cards">
+    {{range sort .Site.Sections.ByWeight "Weight"}}
+    <div class="seperate-card">
+        <img src="{{.Params.logourl}}" style="width: 70%; height: 30%; padding: 30px;">
+        <p>{{.Description | safeHTML}}</p>
+        <a href="{{.RelPermalink}}">Explore</a>
+    </div>
+    {{end}}
+    
+</div>
+
+{{end}}

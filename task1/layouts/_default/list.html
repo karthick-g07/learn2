@@ -1,0 +1,29 @@
+
+{{define "main"}}
+
+   <!-- hero for suites -->
+    <section id="product-banner">
+        <div class="img-container-product" style="background-image: url('{{.Params.logourl| relURL}}');">
+        </div>
+        <div class="content-container-product">
+            {{.Content  }}
+        </div>
+    </section>
+    
+
+    <!-- all posts under suite -->
+    <section id="post-container">
+        {{range .RegularPages}}
+            <div class="post-cards">
+                    <img src="{{.Params.bgimg| relURL}}" alt="">
+                     <p>{{.Summary| first 100}}</p>
+                    <div class="quickbar">
+                        <!-- <span>{{.ReadingTime}} Mins Read</span> -->
+                       
+                        <a href="{{.RelPermalink}}">read more</a>
+                    </div>
+            </div>
+        {{end}}
+    </section>
+
+{{end}}

@@ -1,0 +1,26 @@
+{{define "main"}}
+
+<!-- hero banner  -->
+
+<img src="{{.Params.bgimg|relURL}}" alt="" style="width: 70%; height: auto; margin-left: 15%; margin-top: 10px;">
+
+<div style="width: 60%; margin: auto; line-height: 1.5;">{{.Content}}</div>
+
+
+<!-- testimonials -->
+
+{{with .Site.GetPage "crmplus/testimonials" }}
+<div class="slider">
+
+    {{range .Params.alltestimonials}}
+        <div class="cards">
+            <div style="background-image: url('{{ .bgimg|relURL}} ');" class="img-container-testimonials"></div>
+            <h3>{{.name}}</h3>
+            <p>{{.content | first 100}}</p>
+        </div>
+    {{end}}
+</div>
+{{end}}
+
+
+{{end}}
